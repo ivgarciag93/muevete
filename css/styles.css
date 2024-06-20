@@ -11364,6 +11364,7 @@ section#contacto form#contactForm :-ms-input-placeholder {
 }
 .modalDialog > div {
 	width: 75%;
+  height: 65%;
 	position: relative;
 	margin: 10% auto;
 	padding: 5px 20px 13px 20px;
@@ -11373,8 +11374,8 @@ section#contacto form#contactForm :-ms-input-placeholder {
 	background: -webkit-linear-gradient(#fff, #999);
 	background: -o-linear-gradient(#fff, #999);
   -webkit-transition: opacity 400ms ease-in;
--moz-transition: opacity 400ms ease-in;
-transition: opacity 400ms ease-in;
+  -moz-transition: opacity 400ms ease-in;
+  transition: opacity 400ms ease-in;
 }
 .close {
 	background: #606061;
